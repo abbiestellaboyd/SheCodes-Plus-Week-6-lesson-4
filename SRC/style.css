@@ -1,0 +1,30 @@
+form,
+h1,
+.row,
+.card-group {
+  text-align: center;
+}
+.container {
+  background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+}
+form {
+  padding-top: 30px;
+}
+.card-group {
+  padding-bottom: 30px;
+}
+h1 {
+  color: white;
+}
+.row {
+  color: white;
+}
+.i {
+  color: #30bfc8;
+}
+.convertButton {
+  display: inline-block;
+  margin: 20px;
+  color: white;
+  background-color: #30cfd0;
+}
